@@ -2,8 +2,15 @@ some text in the second text document
 second line
 third line
 forth line
+<<<<<<< HEAD
 fifth line
 sixth line
 seventhline
 in place of eighth
 
+=======
+10thline
+sixth line
+hello
+eighth line
+>>>>>>> Branch_one
