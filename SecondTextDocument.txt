@@ -1,5 +1,9 @@
 some text in the second text document
 second line
 third line
+<<<<<<< HEAD
 forth line
 fifth line
+=======
+forth line
+>>>>>>> Branch_one
