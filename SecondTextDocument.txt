@@ -1,13 +1,7 @@
-some text in the second text documentmmmmmmmmmmmmmmmmmmmmmmmmmm
-some text in the second text documentbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+some text in the second text documentbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrb
 second line
 third line
 forth line
-fifth line
-sixth line
-seventhline
-
-=======
 10thline
 sixth line
 hello
