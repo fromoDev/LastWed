@@ -1,12 +1,11 @@
 some text in the second text documentmmmmmmmmmmmmmmmmmmmmmmmmmm
+some text in the second text documentbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 second line
 third line
 forth line
-<<<<<<< HEAD
 fifth line
 sixth line
 seventhline
-in place of eighth
 
 =======
 10thline
